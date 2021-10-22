@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # neoquiz
 
 ## Project setup
@@ -22,3 +23,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# NeoQuiz
+>>>>>>> d408747b3aefce4b7b14efa43bc3d37ce60010b7
